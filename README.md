@@ -6,7 +6,7 @@ This script tweets a collage of the four last movies logged in your letterboxd a
 For some time now, every friday on twitter is [#LetterboxdFriday](https://twitter.com/hashtag/LetterboxdFriday); the official [@letterboxd account](https://twitter.com/letterboxd) invites users to post their last four movies logged with the hashtag [#LastFourWatched](https://twitter.com/hashtag/LastFourWatched) . I just though of a way of automating this activity.
 
 # Inspiration
-This script is based on the tutorial of Devanshu Mehta
+This script is based on the [tutorial](https://devanshumehta.com/2020/01/04/building-a-movie-diary/) of Devanshu Mehta
 
 # Dependencies
 It uses the following technologies and APIs:

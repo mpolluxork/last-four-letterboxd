@@ -1,3 +1,4 @@
+#this script tweets a collage of the four last movies logged in your letterboxd account for the past week.
 ## https://devanshumehta.com/2020/01/04/building-a-movie-diary/ 
 
 import feedparser

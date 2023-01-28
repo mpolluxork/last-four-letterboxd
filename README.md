@@ -5,6 +5,10 @@ This script tweets a collage of the four last movies logged in your letterboxd a
 
 For some time now, every friday on twitter is [#LetterboxdFriday](https://twitter.com/hashtag/LetterboxdFriday); the official [@letterboxd account](https://twitter.com/letterboxd) invites users to post their last four movies logged with the hashtag [#LastFourWatched](https://twitter.com/hashtag/LastFourWatched) . I just though of a way of automating this activity.
 
+![example image](example1.png)
+
+![example image](example2.png)
+
 # Inspiration
 This script is based on the [tutorial](https://devanshumehta.com/2020/01/04/building-a-movie-diary/) of Devanshu Mehta
 
@@ -24,6 +28,7 @@ It uses the following technologies and APIs:
 - configparser
 
 # How to use
+
 Create a config.ini file in the same directory as the script and configure the following fields with your own credentials:
 
 - tw_api_k: Twitter API key
@@ -33,6 +38,8 @@ Create a config.ini file in the same directory as the script and configure the f
 - tmdb_key: TMDb API key
 - tmdb_language: TMDb language
 - lettrbx_usr: Letterboxd username
+
+Create a folder named tmposter and place there the "generic.jpg" file.
 
 Run the script with python lastfour.py
 

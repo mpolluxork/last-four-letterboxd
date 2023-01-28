@@ -58,7 +58,7 @@ Run the script with python lastfour.py
 # How to Improve
 
 - The script uses the first poster found in the TMDB API, if the movie doesn't have a poster it uses a generic image, we could use other resources like IMDB or Wikipedia to get the movie's images.
-- We migh actually add the score for the movies (number of stars) since that information is included in the RSS feed.
+- We migh actually add the score for the movies (number of stars) to the collage image since that information is included in the RSS feed.
 
 # Contributions
 - Any contributions are welcome, feel free to open a pull request or an issue.
